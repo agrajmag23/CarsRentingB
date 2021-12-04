@@ -1,2 +1,2 @@
-# CarsRenting Server Code
-This Repo contains Backend Code for Cars Renting System (Spring Boot)
+# VENT_Backend
+This Repo contains the backend code for Vehicle Hiring System Project
